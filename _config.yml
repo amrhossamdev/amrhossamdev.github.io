@@ -46,13 +46,13 @@ social:
     - https://www.facebook.com/amrhossamdev
     - https://www.linkedin.com/in/amrhossamdev
 
-google_site_verification: # fill in to your verification string
+google_site_verification: txgdw5WRkrHctO03UAX9T-XrsL6s4iEzFf-dWVwrSW8
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-GQ4C7M4RSR
 
 goatcounter:
   id: # fill in your Goatcounter ID
@@ -78,7 +78,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1767288928548048896/Fw2Ts4en_400x400.jpg
+avatar: https://i.ibb.co/fMbkY9f/f39xck-DW-400x400.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
