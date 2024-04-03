@@ -58,6 +58,8 @@ I have always had a passion for open source so **GSoc** is a golden opportunity 
 
 ## Contributions List
 
+I worked on 15 issues and enhancements that have been **merged** into the main codebase.
+
 
 | PR Number | Title/Description | Date | Status | Comments/Type |
 |-----------|-------------------|------|--------|---------------|
