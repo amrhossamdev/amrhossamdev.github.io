@@ -124,25 +124,25 @@ String uuid = UUID.randomUUID().toString();
 
 ## Implementation Plan
 
-1. ### Understand more about the functional requirements 
+#### Understand more about the functional requirements 
 
 - I will be focusing on gaining a thorough understanding of the functional requirements for the Build Surveys into OneBusAway feature. I will discuss more with my mentor to clarify any uncertainties and gather all the necessary information. 
 
 - Proceed with the implementation phase with a clear understanding of the desired outcomes.
 
-2. ### Planning the implementation details in detail
+#### Planning the implementation details in detail
 
 - After gathering all the necessary ideas and information, I will begin with the implementation details and design a comprehensive mock-up that visualizes the feature accurately. 
 
 - I Will work on a mock-up that will represent the feature's functionality and user interface, helping to ensure that all aspects are well-conceived and user-friendly. I will use tools like [Figma](https://www.figma.com/) or I will be writing the prototype using Android UI.
 
-3. ### UI development for SPR display 
+#### UI development for SPR display 
 
 - After discussing the build surveys feature's technical details and user flow with the mentor, I will begin developing the UI. I aim to create a user-friendly and intuitive interface that seamlessly integrates with the Qualtrics SDK and the backend service.
 
 - I will ensure that the UI is aligned with the overall design aesthetic of the OneBusAway app.
 
-4. ### Qualtrics SDK integration and survey participation flow
+#### Qualtrics SDK integration and survey participation flow
 
 - Familiarize myself with Qualtrics Android SDK
 
@@ -152,7 +152,7 @@ String uuid = UUID.randomUUID().toString();
 
 - Testing the survey flow after integrating with Qualtrics.
 
-5. ### Integrating OBA Backend Service
+#### Integrating OBA Backend Service
 
 - Work to implement the OBA survey feature APIs
 
@@ -160,7 +160,7 @@ String uuid = UUID.randomUUID().toString();
 
 - Testing the survey flow after integrating with the backend.
 
-6. ### Develop SPR management settings
+#### Develop SPR management settings
 
 
 - Implement the logic for managing SPR data within the app.
@@ -171,7 +171,7 @@ String uuid = UUID.randomUUID().toString();
 
 - Testing the survey flow after integrating with Qualtrics.
 
-7. ### Testing and finalizing the feature
+#### Testing and finalizing the feature
 
 - Make sure to fully the feature and it’s production ready
 
