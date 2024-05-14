@@ -1,5 +1,5 @@
 ---
-title: Yaaaay 🎉, I'm now a GSoC contribuiter
+title: I'm now a GSoC contribuiter 🎉 
 author: amr
 date: 2024-05-01 12:00:00 +0800
 categories: [GSoC]
